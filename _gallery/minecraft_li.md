@@ -1,12 +1,13 @@
 ---
 author: lazarou ioannis
 title: minecraft- man inside computerized room
-image_url: ![minecraft](https://github.com/sdy60/2019-ge1-sdy51team/blob/master/images/01.Minecraft.jpg)
-caption: 'Το πρώτο προϊόν της εταιρείας Apple ήταν το Apple I Computer και κυκλοφόρησε στην αγορά το 1976. Ήταν χειροποίητο και ο σχεδιασμός καθώς και η κατασκευή πραγματοποιήθηκαν από τον Steve Wozniak. Το να γίνει διαθέσιμο προς πώληση ήταν ιδεά του φίλου του, Steve Jobs.'
-license_url: 'https://en.wikipedia.org/wiki/Apple_I'
-license_text: Courtesy of Wikipedia
+image_url: /images/01.Minecraft.jpg
+caption: 'Ο χρήστης παίζει πρωταγονιστικό ρόλο στη μορφοποίηση του προϊόντος- εφαρμογής, και έχει τη δυνατότητα να εκφραστεί μέσω της ψηφιακής οδού '
+license_url: 'https://unsplash.com/license'
+license_text: More precisely, Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
 categories:
-  - archetypes
+  - programming interactivity
 tags:
-  - Apple
+  - minecraft
+  - interactivity
 ---
